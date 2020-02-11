@@ -7,3 +7,5 @@ Fitting and forecasting with SARIMA and Exponential Smothing methods.<br>
 For more detailed information refer to the project report.<br>
 Note:<br>
 The report was writen in portuguese.<br>
+Due to the size of the dataset it is not available here.<br>
+The data can be provided uppon request by other means.<br>
